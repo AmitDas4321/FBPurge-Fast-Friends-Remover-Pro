@@ -72,9 +72,13 @@ FBPurge helps users search friend names instantly on the Facebook Friends List t
 
 ---
 
+<p align="center"> <a href="https://chromewebstore.google.com/detail/jnlihkfdbihclgljomekkfgkfaadcbkf" target="_blank"> <img src="screenshots/ss1.png" alt="FBPurge Extension" width="800"> </a> </p>
+
 Horizontal interface demo can be referenced from your extension lifecycle through the browser's active tab session. Friend DOM scanning and unfriend automation happen only on pages matching `"facebook.com/*"` the user has opened.
 
 ---
+
+<p align="center"> <a href="https://chromewebstore.google.com/detail/jnlihkfdbihclgljomekkfgkfaadcbkf" target="_blank"> <img src="screenshots/ss2.png" alt="FBPurge Extension" width="800"> </a> </p>
 
 Interface screenshots help visually ground key features without claiming identity or trademark ownership. The extension UI is clean, well-spaced, labeled clearly, privacy-safe, and suited to bulk unfriending, friend filtering, and automation session control in desktop browsers.
 
