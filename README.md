@@ -72,7 +72,7 @@ FBPurge is built for everyday Facebook desktop browser users who want better con
 
 If you uninstalled the extension, or didn’t receive your license key during trial-to-premium upgrade activation, you can reinstall FBPurge from the Chrome Web Store anytime. For help restoring your session, automation state, or premium validation, contact us securely:
 
-📧 Open support email in your browser via Gmail or visit the support portal hosted at Code4Wap.
+📧 Open support email in your browser via Gmail or visit the support portal hosted at <a href="https://blueorbitdevs.gumroad.com/l/qeuis">Gumroad</a>.
 
 All interaction stays inside the browser – no external identity stored beyond what a support tab explicitly opens and the user clicks to activate.
 
