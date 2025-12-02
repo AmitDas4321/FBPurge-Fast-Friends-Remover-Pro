@@ -23,6 +23,31 @@ FBPurge is a productivity-focused browser extension built for users who want fas
 
 ---
 
+## ⬇️ Download Extension
+
+Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub Releases**.
+
+<p align="center">
+  <!-- Chrome Web Store Button -->
+  <a href="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp" target="_blank">
+    <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub Download Button -->
+  <a href="https://github.com/AmitDas4321/Cleanify-FB-Chat-Cleaner/releases/download/v1.0.2/Cleanify.crx">
+    <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
+  </a>
+</p>
+
+### 🧭 Manual Installation Steps
+1. Download the `.crx` file from the link above *(or install directly from the Chrome Web Store)*.  
+2. Open `chrome://extensions/` in your Chrome browser.  
+3. Enable **Developer Mode** (top right corner).  
+4. Drag and drop the `.crx` file onto the page.  
+5. Cleanify will install automatically. ✅
+
+---
+
 ## ⚙️ Chrome Permissions
 
 FBPurge uses limited, short-lived host access only on the active Facebook tab, along with local storage flags to remember automation state, suppress repeated lifecycle prompts, and ensure a smooth unfriend workflow. It does not read history, monitor unrelated tabs, bind identity across sites, or export friend profile content to remote destinations.
