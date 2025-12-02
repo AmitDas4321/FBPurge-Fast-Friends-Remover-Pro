@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Clean your :contentReference[oaicite:0]{index=0} in seconds — find, select, unfriend with intention.</b>
+  <b>Clean your Facebook Friend list in seconds — find, select, unfriend with intention.</b>
 </p>
 
 <h1 align="center">FBPurge – Fast Friends Remover Pro</h1>
