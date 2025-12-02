@@ -74,5 +74,3 @@ For any privacy-related concern, users may reach out via:
   <b>Made with ❤️ by <a href="./">Amit Das</a></b><br>
   © 2025 Amit Das — All Rights Reserved
 </p>
-
-If you want, I can also provide a compact manifest `permissions` block matching this policy or a store listing tagline.
