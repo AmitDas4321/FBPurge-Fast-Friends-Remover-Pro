@@ -53,5 +53,3 @@ For any privacy or feature query, you can open support email directly in your br
   <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
   ☕ Support development: <a href="https://paypal.me/AmitDas4321">PayPal.me/AmitDas4321</a>
 </p>
-
-Let me know if you'd like a **Chrome Web Store tagline** next.
