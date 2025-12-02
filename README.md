@@ -44,7 +44,7 @@ Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub
 2. Open `chrome://extensions/` in your Chrome browser.  
 3. Enable **Developer Mode** (top right corner).  
 4. Drag and drop the `.crx` file onto the page.  
-5. Cleanify will install automatically. ✅
+5. FBPurge will install automatically. ✅
 
 ---
 
