@@ -25,7 +25,7 @@ FBPurge is a productivity-focused browser extension built for users who want fas
 
 ## ⬇️ Download Extension
 
-Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub Releases**.
+Get the latest version of **FBPurge** from the **Chrome Web Store** or **GitHub Releases**.
 
 <p align="center">
   <!-- Chrome Web Store Button -->
