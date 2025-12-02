@@ -29,12 +29,12 @@ Get the latest version of **Cleanify** from the **Chrome Web Store** or **GitHub
 
 <p align="center">
   <!-- Chrome Web Store Button -->
-  <a href="https://chromewebstore.google.com/detail/jkaafnmmjecejakfanneehifglpdpccp" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/jnlihkfdbihclgljomekkfgkfaadcbkf" target="_blank">
     <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
   &nbsp;&nbsp;
   <!-- GitHub Download Button -->
-  <a href="https://github.com/AmitDas4321/Cleanify-FB-Chat-Cleaner/releases/download/v1.0.2/Cleanify.crx">
+  <a href="https://github.com/AmitDas4321/FBPurge-Fast-Friends-Remover-Pro/releases/download/v1.0.1/FBPurge.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>
