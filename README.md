@@ -17,39 +17,74 @@
 
 ---
 
-## 🧩 Overview
+## Overview
 
-**FBPurge** is a single-purpose Chrome productivity extension for managing friend clutter on Facebook. It enables fast, intentional bulk unfriending exclusively in the active Friends List tab the user opens and activates, without tracking, external servers, or broad permissions.
-
----
-
-## ⚙️ Chrome Permissions Justification
-
-The `storage` permission is used only to remember minimal automation state locally (e.g., last unfriend session activation flags) so workflows do not repeat accidentally and reset safely when the tab or browser session closes.
-
-Host access `"facebook.com/*"` allows DOM script interaction solely inside the Friends List page the user opens, only when clicked to activate bulk unfriending.
+FBPurge is a productivity-focused browser extension built for users who want faster and safer correction of their Facebook Friends List. The extension runs **only** when the user opens Facebook and clicks to activate a bulk unfriend session. No extra domain access, no tracking, and no server-side monitoring are involved, keeping the tool predictable and review-friendly for the Chrome Web Store.
 
 ---
 
-## 🔒 Privacy Promise
+## ⚙️ Chrome Permissions
 
-FBPurge does not collect or transmit personal identity, browsing history, friend profile data, or analytics logs. All automation runs locally inside Chrome’s sandbox and resets automatically between sessions.
+FBPurge uses limited, short-lived host access only on the active Facebook tab, along with local storage flags to remember automation state, suppress repeated lifecycle prompts, and ensure a smooth unfriend workflow. It does not read history, monitor unrelated tabs, bind identity across sites, or export friend profile content to remote destinations.
 
----
-
-## 💬 Support
-
-For any privacy or feature query, you can open support email directly in your browser via Gmail or visit our support portal hosted at Code4Wap.
+These permissions are required only to run DOM-level unfriend automation inside `"facebook.com/*"`, triggered by **user consent and click activation**, following Chrome Web Store’s least-privilege and data-minimization principles.
 
 ---
 
-## 📜 License
+## 🔒 Privacy Policy Highlights
 
-© 2025 Amit Das. All rights reserved. Built for friend list automation, not tracking or data collection.
+The extension operates entirely in the browser sandbox. No personal profile content, browsing logs, history signals, or analytics telemetry data are transmitted or stored remotely. All workflow flags auto-reset when the Facebook tab or browser session ends, preventing unwanted duplicated unfriends or repeated permission requests.
+
+---
+
+## ⚡ Core Features
+
+FBPurge helps users search friend names instantly on the Facebook Friends List tab they open and activate for cleanup. The smart select system supports individual or mass profile selection before unfriending. The DOM-level unfriend automation runs directly in real time, entirely inside the browser, ensuring user control and predictable behavior. Users can stop or cancel anytime during automation and sessions reset safely when tabs close. A free automation trial allows 5 workflow runs before subscription activation if needed, offering flexibility for new users.
+
+---
+
+## 🖼️ Screenshots & Features Preview
+
+---
+
+Horizontal interface demo can be referenced from your extension lifecycle through the browser's active tab session. Friend DOM scanning and unfriend automation happen only on pages matching `"facebook.com/*"` the user has opened.
+
+---
+
+Interface screenshots help visually ground key features without claiming identity or trademark ownership. The extension UI is clean, well-spaced, labeled clearly, privacy-safe, and suited to bulk unfriending, friend filtering, and automation session control in desktop browsers.
+
+---
+
+𝗨𝘀𝗲𝗿 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 𝗙𝗲𝗲𝗹 – FBPurge looks and behaves like a clean utility inside your Facebook Friends Bulk Removal tab session.
+𝗗𝗢𝗠-𝗟𝗲𝘃𝗲𝗹 𝗜𝗻-𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 – No removal happens automatically in background tabs or unrelated domains.
+𝗧𝗿𝗶𝗮𝗹 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗦𝗮𝗳𝗲-𝗥𝗲𝘀𝗲𝘁 – All local automation flags reset safely after tab close or browser session, preventing repeated prompts or accidental duplicates.
+𝗣𝗿𝗶𝘃𝗮𝗰𝘆-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 – Follows Chrome Web Store’s “least privilege” and “data minimization” requirements.
+
+---
+
+## 🧰 Who This Is For
+
+FBPurge is built for everyday Facebook desktop browser users who want better control of a cluttered friend network. It is also helpful for social managers organizing old connections, professionals correcting mistaken profile adds, or anyone who wants fast mass friend removal without tracking, OAuth, analytics, or persistent server dependencies.
+
+---
+
+## 💬 Support & Reinstall Assistance
+
+If you uninstalled the extension, or didn’t receive your license key during trial-to-premium upgrade activation, you can reinstall FBPurge from the Chrome Web Store anytime. For help restoring your session, automation state, or premium validation, contact us securely:
+
+📧 Open support email in your browser via Gmail or visit the support portal hosted at Code4Wap.
+
+All interaction stays inside the browser – no external identity stored beyond what a support tab explicitly opens and the user clicks to activate.
+
+---
+
+## 📜 License & Ownership
+
+© 2025 Amit Das. All rights reserved. Created as a lightweight, predictable, browser-sandboxed, single-purpose friend cleanup automation extension for desktop browser Facebook sessions only. No ads, tracking, or server writes included in friend-unfriend workflows.
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
+  <b>Made with ❤️ by <a href="./">Amit Das</a></b><br>
   ☕ Support development: <a href="https://paypal.me/AmitDas4321">PayPal.me/AmitDas4321</a>
 </p>
