@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Remove Friends in Bulk, Smarter & Faster</b><br>
-  Version 1.0.0 • Developed by <a href="./">Amit Das</a>
+  Version 1.0.1 • Developed by <a href="./">Amit Das</a>
 </p>
 
 ---
