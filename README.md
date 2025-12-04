@@ -82,9 +82,9 @@ Horizontal interface demo can be referenced from your extension lifecycle throug
 
 Interface screenshots help visually ground key features without claiming identity or trademark ownership. The extension UI is clean, well-spaced, labeled clearly, privacy-safe, and suited to bulk unfriending, friend filtering, and automation session control in desktop browsers.
 
-<p align="center"> <a href="https://chromewebstore.google.com/detail/jnlihkfdbihclgljomekkfgkfaadcbkf" target="_blank"> <img src="screenshots/ss3.png" alt="FBPurge Extension" width="800"> </a> </p>
-
 ---
+
+<p align="center"> <a href="https://chromewebstore.google.com/detail/jnlihkfdbihclgljomekkfgkfaadcbkf" target="_blank"> <img src="screenshots/ss3.png" alt="FBPurge Extension" width="800"> </a> </p>
 
 𝗨𝘀𝗲𝗿 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 𝗙𝗲𝗲𝗹 – FBPurge looks and behaves like a clean utility inside your Facebook Friends Bulk Removal tab session.
 𝗗𝗢𝗠-𝗟𝗲𝘃𝗲𝗹 𝗜𝗻-𝗕𝗿𝗼𝘄𝘀𝗲𝗿 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 – No removal happens automatically in background tabs or unrelated domains.
